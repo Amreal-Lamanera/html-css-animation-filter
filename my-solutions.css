@@ -58,3 +58,13 @@
 .ex-6-img:hover {
     filter: grayscale(1);
 }
+
+/* Es.7 */
+
+.ex-7-img {
+    transition: 2s;
+}
+
+.ex-7-img:hover {
+    filter: grayscale(0.5) sepia(0.5);
+}
