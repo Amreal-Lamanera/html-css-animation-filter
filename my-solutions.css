@@ -164,25 +164,27 @@
         left: 10%;
     }
 
-    50% {
-        left: 67%;
+    25% {
+        left: 194px;
+        top: -10px;
     }
 
-    100% {
-        left: 10%;
+    50% {
+        left: 190px;
+        top: 65px;
     }
 }
 
-@keyframes move-bottom {
+/* @keyframes move-bottom {
     0% {
         right: 20%;
     }
 
     50% {
-        right: 67%;
+        right: 100%
     }
 
     100% {
         right: 20%;
     }
-}
+} */
