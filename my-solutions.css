@@ -1,8 +1,20 @@
 /* Es.1 */
+
 .ex-1-square {
     transition: background-color 2s;
 }
 
 .ex-1-square:hover {
     background-color: red;
+}
+
+
+/* Es.2 */
+
+.ex-2-square {
+    transition: width 2s;
+}
+
+.ex-2-square:active {
+    width: 100%;
 }
